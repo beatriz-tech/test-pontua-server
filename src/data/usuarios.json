@@ -1,0 +1,32 @@
+[
+    {
+        "userId": 1,
+        "email": "1234@gmail.com",
+        "password": "12345678"
+    },
+    {
+        "userId": 2,
+        "email": "1232@gmail.com",
+        "password": "12345678"
+    },
+    {
+        "userId": 3,
+        "email": "1234@gmail.com",
+        "password": "12345672"
+    },
+    {
+        "userId": 4,
+        "email": "1233@gmail.com",
+        "password": "12345673"
+    },
+    {
+        "userId": 5,
+        "email": "12344@gmail.com",
+        "password": "12345674"
+    },
+    {
+        "userId": 6,
+        "email": "1235@gmail.com",
+        "password": "12345675"
+    }
+]
